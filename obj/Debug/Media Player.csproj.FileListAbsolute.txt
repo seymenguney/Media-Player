@@ -1,0 +1,15 @@
+C:\Users\Stap\source\repos\Media Player\Media Player\bin\Debug\Media Player.exe.config
+C:\Users\Stap\source\repos\Media Player\Media Player\bin\Debug\Media Player.exe
+C:\Users\Stap\source\repos\Media Player\Media Player\bin\Debug\Media Player.pdb
+C:\Users\Stap\source\repos\Media Player\Media Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Stap\source\repos\Media Player\Media Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Stap\source\repos\Media Player\Media Player\obj\Debug\Media Player.csprojAssemblyReference.cache
+C:\Users\Stap\source\repos\Media Player\Media Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Stap\source\repos\Media Player\Media Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Stap\source\repos\Media Player\Media Player\obj\Debug\Media Player.csproj.ResolveComReference.cache
+C:\Users\Stap\source\repos\Media Player\Media Player\obj\Debug\Media_Player.Form1.resources
+C:\Users\Stap\source\repos\Media Player\Media Player\obj\Debug\Media_Player.Properties.Resources.resources
+C:\Users\Stap\source\repos\Media Player\Media Player\obj\Debug\Media Player.csproj.GenerateResource.cache
+C:\Users\Stap\source\repos\Media Player\Media Player\obj\Debug\Media Player.csproj.CoreCompileInputs.cache
+C:\Users\Stap\source\repos\Media Player\Media Player\obj\Debug\Media Player.exe
+C:\Users\Stap\source\repos\Media Player\Media Player\obj\Debug\Media Player.pdb
